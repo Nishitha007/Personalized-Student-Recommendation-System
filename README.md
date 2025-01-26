@@ -70,7 +70,7 @@ Performance data from the last 5 quizzes, including:
 - **Historical Scores**: ![Historical Scores](visualizations/historical_scores.png)
 
 ## Demo Video
-A 2-5 minute demonstration of the script in action is available in the `demo/` folder.
+A 2-5 minute demonstration of the script in action is available in the `demo/` [folder.https://www.loom.com/share/eb587d3f3de7421ea4687528fd46c31e?sid=c7d94029-6751-4d79-9366-5b610a1dd247]
 
 ## Submission Checklist
 - [x] Python script with analysis and recommendations.
